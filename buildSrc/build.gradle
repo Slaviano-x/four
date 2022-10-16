@@ -1,0 +1,7 @@
+plugins {
+    id "org.gradle.kotlin.kotlin-dsl" version "2.1.7"
+}
+
+repositories {
+    maven { url 'https://artifactory.s.o3.ru/artifactory/maven-group-android' }
+}
